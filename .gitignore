@@ -5,6 +5,3 @@ node_modules/
 
 # Ignore specific folders in sub-directories
 backend/node_modules/
-frontend/node_modules/
-frontend/dist/
-frontend/build/
